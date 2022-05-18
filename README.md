@@ -5,8 +5,8 @@ The dataset used in the following analysis can be found [here](https://archive.i
 **The notebook contains**:
 * Analysis of the heart failure clinical records.
 * Performing regression using different models including:
-  * linear regression
+  * Linear regression
   * MLP
 * The regularization parameter and hidden layers number was tuned.
-* Models were tested and compared to the baseline - Dummy Regressor
+* Models were tested and compared to the baseline - dummy regressor
 * T-test statistical comparison was used to evaluate the trained models    
